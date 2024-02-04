@@ -1,4 +1,3 @@
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXgwMGtwZGdvZ2txZDZ1a3FkeXhyZGU4eWtiNjh2MTY3M2psbjRibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 <h1 align="center">Hi 👋, I'm Niraj(an optimistic, aspiring programmer)</h1>
 <h3 align="center">An aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ByeGJkMGx6NWNub2oxcDhsM3h1ZGZjc2N5MmxlN3FncWcwZjdzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
