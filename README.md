@@ -1,31 +1,45 @@
-<h1 align="center">Hi 👋, I'm Niraj(an optimistic, aspiring programmer)</h1>
-<h3 align="center">An aspiring Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ByeGJkMGx6NWNub2oxcDhsM3h1ZGZjc2N5MmxlN3FncWcwZjdzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
+# Niraj Basnet
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajbasnet009&label=Profile%20views&color=0e75b6&style=flat" alt="nirajbasnet009" /> </p>
+Computer Science Undergraduate at the University of South Florida (USF) in Tampa, Florida.  
+Focusing on Data Engineering, Database Systems, and Backend Development.
 
-- 🌱 I’m currently learning **Numpy,Pandas,Matplotlib**
+- Email: nirajbasnet@usf.edu
+- Location: Tampa, FL
+- LinkedIn: https://www.linkedin.com/in/nirajbasnet009
+- Website: https://www.nirajbasnet.com.np
 
-- 👨‍💻 All of my projects are available at [https://github.com/nirajbasnet009](https://github.com/nirajbasnet009)
+---
 
-- 💬 Ask me about **css,js,python**
+## Technical Skills
 
-- 📫 How to reach me **niraj.basnet009@gmail.com**
+- Languages: Python, SQL, JavaScript, HTML, CSS, C
+- Databases and Systems: MySQL, SQLite, Relational Database Design, Docker
+- Frameworks and Libraries: Django, Flask, Pandas, NumPy, Matplotlib
+- Tools: Git, GitHub, VS Code
+- Core Concepts: Data Quality Auditing, Multi-Table Joins, CTEs, REST APIs, Object-Oriented Programming
 
-- ⚡ Fun fact **I laugh at my own jokes.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nirajbasnet009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirajbasnet009" height="30" width="40" /></a>
-<a href="https://fb.com/niraj.basnet.5245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niraj.basnet.5245" height="30" width="40" /></a>
-<a href="https://instagram.com/nirajbasnet009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nirajbasnet009" height="30" width="40" /></a>
-</p>
+## Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Olist E-Commerce SQL Analytics & Data Quality Pipeline
+A complete SQL analytics and validation pipeline evaluating over 100,000 real customer orders and transactions using MySQL inside Docker.
+- Designed automated SQL checks to detect duplicate primary keys, null values, and payment anomalies.
+- Built multi-table INNER JOINs and Common Table Expressions (CTEs) to calculate Average Order Value (AOV) and order cancellation rates.
+- Measured shipping turnaround latency and on-time delivery percentages using SQL date-time functions.
+- Stack: MySQL, Docker, SQL, Git
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirajbasnet009&show_icons=true&locale=en&layout=compact" alt="nirajbasnet009" /></p>
+### Task Manager Web Application
+A full-stack web application built to manage tasks, priority levels, and category filtering.
+- Implemented server-side routing, form handling, and CRUD operations using Python and Django.
+- Designed a normalized relational database in SQLite with foreign keys for task assignment.
+- Stack: Python, Django, SQLite, HTML, CSS
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirajbasnet009&show_icons=true&locale=en" alt="nirajbasnet009" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirajbasnet009&" alt="nirajbasnet009" /></p>
+## Education
+
+University of South Florida (USF) — Tampa, FL  
+Bachelor of Science in Computer Science | GPA: 3.69 / 4.00  
+Expected Graduation: May 2028  
+Relevant Coursework: Data Structures and Algorithms, Database Systems, Artificial Intelligence (in progress), Probability and Statistics, Computer Logic and Design
