@@ -22,14 +22,15 @@ Focusing on Data Engineering, Database Systems, and Backend Development.
 
 ## Featured Projects
 
-### Olist E-Commerce SQL Analytics & Data Quality Pipeline
-A complete SQL analytics and validation pipeline evaluating over 100,000 real customer orders and transactions using MySQL inside Docker.
+### [E-Commerce Data Modeling & SQL Analytics](https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL)
+A complete SQL analytics, data quality, and OLAP dimensional modeling project analyzing over 100,000 real customer orders using MySQL running in Docker.
 - Designed automated SQL checks to detect duplicate primary keys, null values, and payment anomalies.
 - Built multi-table INNER JOINs and Common Table Expressions (CTEs) to calculate Average Order Value (AOV) and order cancellation rates.
-- Measured shipping turnaround latency and on-time delivery percentages using SQL date-time functions.
+- Evaluated delivery turnaround latency and on-time fulfillment percentages using SQL timestamp functions.
+- Designed a star schema fact table (`fact_sales`) with strict data typing and grain definition.
 - Stack: MySQL, Docker, SQL, Git
 
-### Task Manager Web Application
+### [Smart Task Manager Web Application](https://github.com/nirajbasnet009/Smart_Task_Manager)
 A full-stack web application built to manage tasks, priority levels, and category filtering.
 - Implemented server-side routing, form handling, and CRUD operations using Python and Django.
 - Designed a normalized relational database in SQLite with foreign keys for task assignment.
