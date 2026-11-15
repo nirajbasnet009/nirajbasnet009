@@ -3,7 +3,7 @@
 Computer Science student at the University of South Florida (Expected graduation: May 2028).  
 I build SQL analytical models, dimensional data warehouses, and automated Python ETL pipelines, targeting **Data Analyst, Business Intelligence, and Data Engineering internships for 2027**.
 
-[Portfolio](https://nirajbasnet.com.np/) · [Download Résumé](https://nirajbasnet.com.np/resume/) · [LinkedIn](https://www.linkedin.com/in/nirajbasnet009) · [Email](mailto:niraj.basnet009@gmail.com)
+[Portfolio](https://nirajbasnet.com.np/) · [Download Resume](https://nirajbasnet.com.np/resume/) · [LinkedIn](https://www.linkedin.com/in/nirajbasnet009) · [Email](mailto:niraj.basnet009@gmail.com)
 
 ---
 
