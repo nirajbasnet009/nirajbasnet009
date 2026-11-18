@@ -9,13 +9,32 @@ I build SQL analytical models, dimensional data warehouses, and automated Python
 
 ## Featured Projects
 
-### 1. [Olist E-Commerce SQL Analytics & Dimensional Modeling](https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL)
-*Targeting Data Analyst & Business Intelligence Roles* - [Read Case Study](https://nirajbasnet.com.np/blog/olist-ecommerce-sql-analytics-and-olap-modeling/)
-- Built an end-to-end analytical workflow across 100k+ Brazilian customer orders in MySQL 8.0 on Docker.
-- Implemented rigorous data hygiene audits (`03_data_hygiene_audits.sql`), resolving 160 missing dates and verifying 0 orphaned foreign keys.
-- Engineered 4 business query suites (`04_business_analytics.sql`) using window functions, CTEs, and payment aggregations, isolating 23,073 credit card orders over 10 installments (R$ 4,008,189.17 merchandise total).
-- Modeled a Kimball star schema (`05_olap_modeling.sql`) anchored by a 110,197-row `fact_sales` table at the order-item grain connected to 4 dimensions.
-- **Skills:** SQL, MySQL 8.0, Dimensional Modeling (Star Schema), Data Hygiene, Docker, Business Intelligence
+<table>
+<tr>
+<td width="100%" valign="top">
+  <p>🛒 &nbsp; <sub>01 · E-COMMERCE &amp; REVENUE ANALYTICS</sub></p>
+  <h3><a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL">Olist Brazilian E-Commerce Analytics &amp; Dimensional Modeling</a></h3>
+  <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL"><img src="https://raw.githubusercontent.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/main/docs/images/executive-sales-overview.png" width="100%" alt="Olist E-Commerce Executive Sales &amp; Revenue Overview Dashboard"></a>
+  <p><strong>110,197 order items · 5 star schema tables · R$ 13.22M delivered sales</strong></p>
+  <p>Engineered an analytical star schema across 100k+ Brazilian customer orders in MySQL 8.0 on Docker with 100% referential integrity, and delivered an interactive executive Power BI dashboard with full time-intelligence trend analysis and 10/10 KPI reconciliation.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Power%20BI-Executive%20Dashboard-F2C811?style=flat&logo=powerbi&logoColor=000000" alt="Power BI"> &nbsp;
+    <img src="https://img.shields.io/badge/MySQL%208.0-Database-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"> &nbsp;
+    <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"> &nbsp;
+    <img src="https://img.shields.io/badge/DAX-Time%20Intelligence-0078D4?style=flat&logo=microsoft&logoColor=white" alt="DAX"> &nbsp;
+    <img src="https://img.shields.io/badge/Star%20Schema-Kimball%20OLAP-6F42C1?style=flat" alt="Star Schema">
+  </p>
+  <p>
+    <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL"><strong>Case study ↗</strong></a> &nbsp; · &nbsp;
+    <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/blob/main/powerbi/ecommercereport.pbix">Power BI Report (.pbix)</a> &nbsp; · &nbsp;
+    <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/blob/main/05_olap_modeling.sql">SQL validation</a> &nbsp; · &nbsp;
+    <a href="https://nirajbasnet.com.np/blog/olist-ecommerce-sql-analytics-and-olap-modeling/">Article</a>
+  </p>
+</td>
+</tr>
+</table>
+
+### Other Projects
 
 ### 2. [TMDB Movie Data ETL Pipeline](https://github.com/nirajbasnet009/tmdb-etl-project)
 *Targeting Data Engineering Roles* - [Read Case Study](https://nirajbasnet.com.np/blog/tmdb-movie-data-etl-pipeline/)
