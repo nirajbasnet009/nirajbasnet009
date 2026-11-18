@@ -26,7 +26,8 @@ I build SQL analytical models, dimensional data warehouses, and automated Python
   </p>
   <p>
     <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL"><strong>Case study ↗</strong></a> &nbsp; · &nbsp;
-    <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/blob/main/powerbi/ecommercereport.pbix">Power BI Report (.pbix)</a> &nbsp; · &nbsp;
+    <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/blob/main/Dashboard%20Pdf/Dashboard.pdf">Dashboard (PDF)</a> &nbsp; · &nbsp;
+    <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/raw/main/powerbi/ecommercereport.pbix">Report (.pbix)</a> &nbsp; · &nbsp;
     <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/blob/main/05_olap_modeling.sql">SQL validation</a> &nbsp; · &nbsp;
     <a href="https://nirajbasnet.com.np/blog/olist-ecommerce-sql-analytics-and-olap-modeling/">Article</a>
   </p>
