@@ -16,7 +16,7 @@ I build SQL analytical models, dimensional data warehouses, and automated Python
   <h3><a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL">Olist E-Commerce Analytics — Power BI Report</a></h3>
   <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL"><img src="https://raw.githubusercontent.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/main/docs/images/executive-sales-overview.png" width="100%" alt="Executive Overview — Power BI Report Preview"></a>
   <p><strong>110,197 order items · 5 star schema tables · R$ 13.22M delivered sales</strong></p>
-  <p>I built an interactive Power BI report on a five-table MySQL star schema to analyze delivered orders from the Olist Brazilian e-commerce dataset. The completed Executive Overview and Product & Region report pages track merchandise revenue, delivered orders, average order value, freight, monthly revenue versus the previous year, weekday versus weekend sales, Brazilian state sales concentration, and regional product demand. The Customer Behavior page is in progress.</p>
+  <p>I built an interactive Power BI report on a five-table MySQL star schema to analyze delivered orders from the Olist Brazilian e-commerce dataset. Across three completed report pages—Executive Overview, Product & Region, and Customer Behavior—the report tracks merchandise revenue, delivered orders, average order value, freight, monthly revenue versus the previous year, weekday versus weekend sales, Brazilian state sales concentration, regional product demand, and repeat customer retention metrics.</p>
   <p>
     <img src="https://img.shields.io/badge/Power%20BI-Interactive%20Report-F2C811?style=flat&logo=powerbi&logoColor=000000" alt="Power BI"> &nbsp;
     <img src="https://img.shields.io/badge/MySQL%208.0-Database-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"> &nbsp;
@@ -26,7 +26,7 @@ I build SQL analytical models, dimensional data warehouses, and automated Python
   </p>
   <p>
     <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL"><strong>Case study ↗</strong></a> &nbsp; · &nbsp;
-    <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/blob/main/Dashboard%20Pdf/Dashboard.pdf">Report (2-Page PDF)</a> &nbsp; · &nbsp;
+    <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/blob/main/powerbi/olist-ecommerce-report.pdf">Report (PDF)</a> &nbsp; · &nbsp;
     <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/raw/main/powerbi/olist-ecommerce-report.pbix">Report (.pbix)</a> &nbsp; · &nbsp;
     <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/blob/main/05_olap_modeling.sql">SQL validation</a> &nbsp; · &nbsp;
     <a href="https://nirajbasnet.com.np/blog/olist-ecommerce-sql-analytics-and-olap-modeling/">Article</a>
@@ -57,7 +57,7 @@ I build SQL analytical models, dimensional data warehouses, and automated Python
 
 - **Databases & Modeling:** SQL (Window functions, CTEs, Aggregations), MySQL 8.0, SQLite, PostgreSQL (in progress), Dimensional Modeling (Star Schema, Fact/Dimension Tables, Grain Definition), Relational Database Normalization.
 - **Data Engineering & Scripting:** Python, Pandas, REST API Pagination & Extraction, Batch ETL Pipelines, Data Validation & Cleaning, Docker, Git/GitHub.
-- **Analytics & BI:** Business Metrics Calculation (AOV, Cancellation Rate, Fulfillment Latency), Cohort/Segment Analysis, Power BI (reports in progress).
+- **Analytics & BI:** Business Metrics Calculation (AOV, Cancellation Rate, Fulfillment Latency), Cohort/Segment Analysis, Power BI (Interactive DAX Reports, Data Modeling).
 
 ---
 
