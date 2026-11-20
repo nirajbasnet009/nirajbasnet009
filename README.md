@@ -14,7 +14,7 @@ I build SQL analytical models, dimensional data warehouses, and automated Python
 <td width="100%" valign="top">
   <p>🛒 &nbsp; <sub>01 · E-COMMERCE &amp; REVENUE ANALYTICS</sub></p>
   <h3><a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL">Olist E-Commerce Analytics — Power BI Report</a></h3>
-  <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL"><img src="https://raw.githubusercontent.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/main/docs/images/executive-sales-overview.png" width="100%" alt="Executive Overview — Power BI Report Preview"></a>
+  <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL"><img src="https://raw.githubusercontent.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/main/docs/images/olist-executive-overview.png" width="100%" alt="Executive Overview — Power BI Report Preview"></a>
   <p><strong>110,197 order items · 5 star schema tables · R$ 13.22M delivered sales</strong></p>
   <p>I built an interactive Power BI report on a five-table MySQL star schema to analyze delivered orders from the Olist Brazilian e-commerce dataset. Across three completed report pages—Executive Overview, Product & Region, and Customer Behavior—the report tracks merchandise revenue, delivered orders, average order value, freight, monthly revenue versus the previous year, weekday versus weekend sales, Brazilian state sales concentration, regional product demand, and repeat customer retention metrics.</p>
   <p>
