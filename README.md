@@ -13,12 +13,12 @@ I build SQL analytical models, dimensional data warehouses, and automated Python
 <tr>
 <td width="100%" valign="top">
   <p>🛒 &nbsp; <sub>01 · E-COMMERCE &amp; REVENUE ANALYTICS</sub></p>
-  <h3><a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL">Olist Brazilian E-Commerce Analytics &amp; Dimensional Modeling</a></h3>
-  <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL"><img src="https://raw.githubusercontent.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/main/docs/images/executive-sales-overview.png" width="100%" alt="Olist E-Commerce Executive Sales &amp; Revenue Overview Dashboard"></a>
+  <h3><a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL">Olist E-Commerce Analytics — Power BI Report</a></h3>
+  <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL"><img src="https://raw.githubusercontent.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/main/docs/images/executive-sales-overview.png" width="100%" alt="Executive Overview — Power BI Report Preview"></a>
   <p><strong>110,197 order items · 5 star schema tables · R$ 13.22M delivered sales</strong></p>
-  <p>Engineered an analytical star schema across 100k+ Brazilian customer orders in MySQL 8.0 on Docker with 100% referential integrity, and delivered an interactive executive Power BI dashboard with full time-intelligence trend analysis and 10/10 KPI reconciliation.</p>
+  <p>I built an interactive Power BI report on a five-table MySQL star schema to analyze delivered orders from the Olist Brazilian e-commerce dataset. The completed Executive Overview tracks merchandise revenue, delivered orders, average order value, freight, monthly revenue versus the previous year, and weekday versus weekend sales. The Product & Region and Customer Behavior pages are in progress.</p>
   <p>
-    <img src="https://img.shields.io/badge/Power%20BI-Executive%20Dashboard-F2C811?style=flat&logo=powerbi&logoColor=000000" alt="Power BI"> &nbsp;
+    <img src="https://img.shields.io/badge/Power%20BI-Interactive%20Report-F2C811?style=flat&logo=powerbi&logoColor=000000" alt="Power BI"> &nbsp;
     <img src="https://img.shields.io/badge/MySQL%208.0-Database-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"> &nbsp;
     <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"> &nbsp;
     <img src="https://img.shields.io/badge/DAX-Time%20Intelligence-0078D4?style=flat&logo=microsoft&logoColor=white" alt="DAX"> &nbsp;
@@ -26,7 +26,7 @@ I build SQL analytical models, dimensional data warehouses, and automated Python
   </p>
   <p>
     <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL"><strong>Case study ↗</strong></a> &nbsp; · &nbsp;
-    <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/blob/main/Dashboard%20Pdf/Dashboard.pdf">Dashboard (PDF)</a> &nbsp; · &nbsp;
+    <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/blob/main/Dashboard%20Pdf/Dashboard.pdf">Report (PDF)</a> &nbsp; · &nbsp;
     <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/raw/main/powerbi/ecommercereport.pbix">Report (.pbix)</a> &nbsp; · &nbsp;
     <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/blob/main/05_olap_modeling.sql">SQL validation</a> &nbsp; · &nbsp;
     <a href="https://nirajbasnet.com.np/blog/olist-ecommerce-sql-analytics-and-olap-modeling/">Article</a>
