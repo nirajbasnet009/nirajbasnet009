@@ -14,7 +14,7 @@ I build SQL analytical models, dimensional data warehouses, and automated Python
 <td width="100%" valign="top">
   <p>🛒 &nbsp; <sub>01 · E-COMMERCE &amp; REVENUE ANALYTICS</sub></p>
   <h3><a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL">Olist E-Commerce Analytics — Power BI Report</a></h3>
-  <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL"><img src="https://raw.githubusercontent.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/main/docs/images/olist-sales-analytics-hero.png" width="100%" alt="Olist E-Commerce Sales Analytics Power BI Dashboard and Data Architecture"></a>
+  <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL"><img src="https://raw.githubusercontent.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/main/docs/images/olist-sales-analytics-hero.png?v=2" width="100%" alt="Olist E-Commerce Sales Analytics Power BI Dashboard and Data Architecture"></a>
   <p><strong>110,197 order items · 5 star schema tables · R$ 13.22M delivered sales</strong></p>
   <p>I built an interactive Power BI report on a five-table MySQL star schema to analyze delivered orders from the Olist Brazilian e-commerce dataset. Across three completed report pages—Executive Overview, Product & Region, and Customer Behavior—the report tracks merchandise revenue, delivered orders, average order value, freight, monthly revenue versus the previous year, weekday versus weekend sales, Brazilian state sales concentration, regional product demand, and repeat customer retention metrics.</p>
   <p>
@@ -42,7 +42,7 @@ I build SQL analytical models, dimensional data warehouses, and automated Python
 <td width="100%" valign="top">
   <p>🎬 &nbsp; <sub>02 · DATA ENGINEERING &amp; ETL PIPELINE</sub></p>
   <h3><a href="https://github.com/nirajbasnet009/tmdb-etl-project">TMDB Movie Data ETL Pipeline</a></h3>
-  <a href="https://github.com/nirajbasnet009/tmdb-etl-project"><img src="https://raw.githubusercontent.com/nirajbasnet009/tmdb-etl-project/main/docs/images/tmdb-etl-hero.png" width="100%" alt="TMDB Movie Data ETL Pipeline"></a>
+  <a href="https://github.com/nirajbasnet009/tmdb-etl-project"><img src="https://raw.githubusercontent.com/nirajbasnet009/tmdb-etl-project/main/docs/images/tmdb-etl-hero.png?v=2" width="100%" alt="TMDB Movie Data ETL Pipeline"></a>
   <p><strong>500 pages · 9,980 raw records fetched · 9,475 clean records exported</strong></p>
   <p>An automated batch Python ETL pipeline fetching paginated movie records across the TMDB REST API. Cleans nested JSON, parses ISO dates, and enforces pre-load defensive validation to guarantee zero file corruption on network errors and verify batch idempotency.</p>
   <p>
