@@ -14,7 +14,7 @@ I build SQL analytical models, dimensional data warehouses, and automated Python
 <td width="100%" valign="top">
   <p>🛒 &nbsp; <sub>01 · E-COMMERCE &amp; REVENUE ANALYTICS</sub></p>
   <h3><a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL">Olist E-Commerce Analytics — Power BI Report</a></h3>
-  <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL"><img src="https://raw.githubusercontent.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/main/docs/images/olist-executive-overview.png" width="100%" alt="Executive Overview — Power BI Report Preview"></a>
+  <a href="https://github.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL"><img src="https://raw.githubusercontent.com/nirajbasnet009/Ecommerce_Data_Modeling_SQL/main/docs/images/olist-sales-analytics-hero.png" width="100%" alt="Olist E-Commerce Sales Analytics Power BI Dashboard and Data Architecture"></a>
   <p><strong>110,197 order items · 5 star schema tables · R$ 13.22M delivered sales</strong></p>
   <p>I built an interactive Power BI report on a five-table MySQL star schema to analyze delivered orders from the Olist Brazilian e-commerce dataset. Across three completed report pages—Executive Overview, Product & Region, and Customer Behavior—the report tracks merchandise revenue, delivered orders, average order value, freight, monthly revenue versus the previous year, weekday versus weekend sales, Brazilian state sales concentration, regional product demand, and repeat customer retention metrics.</p>
   <p>
@@ -39,7 +39,7 @@ I build SQL analytical models, dimensional data warehouses, and automated Python
 
 ### 2. [TMDB Movie Data ETL Pipeline](https://github.com/nirajbasnet009/tmdb-etl-project)
 *Targeting Data Engineering Roles* - [Read Case Study](https://nirajbasnet.com.np/blog/tmdb-movie-data-etl-pipeline/)
-- Developed an automated batch Python pipeline extracting paginated movie records across the TMDB REST API.
+- Developed an automated batch Python pipeline extracting paginated movie records across the TMDB REST API (500 pages, 9,980 raw records / 9,475 clean records).
 - Engineered resilient extraction with HTTP status handling, exponential backoff retries, and schema normalization in `pandas`.
 - Built pre-load defensive validation checking duplicate IDs, non-empty primary fields, and non-negative metric bounds before exporting to clean CSV.
 - Included failure-recovery documentation with SHA-256 integrity verification against corrupt runs.
@@ -64,6 +64,6 @@ I build SQL analytical models, dimensional data warehouses, and automated Python
 ## Education
 
 **University of South Florida (USF)** - Tampa, FL  
-*Bachelor of Science in Computer Science* | GPA: 3.69 / 4.00  
+*Bachelor of Science in Computer Science* | GPA: 3.77 / 4.00  
 *Expected Graduation:* May 2028  
 *Relevant Coursework:* Database Systems, Data Structures & Algorithms, Artificial Intelligence, Probability & Statistics, Computer Logic & Design
