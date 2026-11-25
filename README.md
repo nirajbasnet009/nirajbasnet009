@@ -35,17 +35,36 @@ I build SQL analytical models, dimensional data warehouses, and automated Python
 </tr>
 </table>
 
+<br>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+  <p>🎬 &nbsp; <sub>02 · DATA ENGINEERING &amp; ETL PIPELINE</sub></p>
+  <h3><a href="https://github.com/nirajbasnet009/tmdb-etl-project">TMDB Movie Data ETL Pipeline</a></h3>
+  <a href="https://github.com/nirajbasnet009/tmdb-etl-project"><img src="https://raw.githubusercontent.com/nirajbasnet009/tmdb-etl-project/main/docs/images/tmdb-etl-hero.png" width="100%" alt="TMDB Movie Data ETL Pipeline"></a>
+  <p><strong>500 pages · 9,980 raw records fetched · 9,475 clean records exported</strong></p>
+  <p>An automated batch Python ETL pipeline fetching paginated movie records across the TMDB REST API. Cleans nested JSON, parses ISO dates, and enforces pre-load defensive validation to guarantee zero file corruption on network errors and verify batch idempotency.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python%203.14-Language-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> &nbsp;
+    <img src="https://img.shields.io/badge/Pandas-Transformations-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"> &nbsp;
+    <img src="https://img.shields.io/badge/REST%20API-TMDB-01B4E4?style=flat" alt="TMDB API"> &nbsp;
+    <img src="https://img.shields.io/badge/Data%20Validation-Defensive-2EA44F?style=flat" alt="Validation"> &nbsp;
+    <img src="https://img.shields.io/badge/Batch%20ETL-Idempotent-6F42C1?style=flat" alt="Batch ETL">
+  </p>
+  <p>
+    <a href="https://github.com/nirajbasnet009/tmdb-etl-project"><strong>Repository ↗</strong></a> &nbsp; · &nbsp;
+    <a href="https://github.com/nirajbasnet009/tmdb-etl-project/blob/main/pipeline.py">Pipeline orchestrator</a> &nbsp; · &nbsp;
+    <a href="https://nirajbasnet.com.np/blog/tmdb-movie-data-etl-pipeline/">Case study</a> &nbsp; · &nbsp;
+    <a href="https://nirajbasnet.com.np/blog/what-i-learned-about-etl-reliability/">Reliability notes</a>
+  </p>
+</td>
+</tr>
+</table>
+
 ### Other Projects
 
-### 2. [TMDB Movie Data ETL Pipeline](https://github.com/nirajbasnet009/tmdb-etl-project)
-*Targeting Data Engineering Roles* - [Read Case Study](https://nirajbasnet.com.np/blog/tmdb-movie-data-etl-pipeline/)
-- Developed an automated batch Python pipeline extracting paginated movie records across the TMDB REST API (500 pages, 9,980 raw records / 9,475 clean records).
-- Engineered resilient extraction with HTTP status handling, exponential backoff retries, and schema normalization in `pandas`.
-- Built pre-load defensive validation checking duplicate IDs, non-empty primary fields, and non-negative metric bounds before exporting to clean CSV.
-- Included failure-recovery documentation with SHA-256 integrity verification against corrupt runs.
-- **Skills:** Python, Pandas, REST APIs, Batch ETL, Data Validation, Error Handling, Git
-
-### 3. [Smart Task Manager](https://github.com/nirajbasnet009/Smart_Task_Manager)
+### 2. [Smart Task Manager](https://github.com/nirajbasnet009/Smart_Task_Manager)
 *Full-Stack Python & Database Systems* - [View Project](https://nirajbasnet.com.np/projects/)
 - Implemented user authentication, dynamic CRUD workflows, priority filtering, and category tagging using Python and Django.
 - Designed a normalized relational schema in SQLite enforcing strict foreign key constraints for secure task isolation.
